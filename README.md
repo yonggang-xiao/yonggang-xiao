@@ -27,6 +27,8 @@
 
 - GitHub: https://github.com/yonggang-xiao/
 
+![Q9](https://github.com/yonggang-xiao/survey/blob/18d95fdd856a8f1aed3a5bfcdd1f67e8cc4d5078/output/desc_q9.png)
+
 <!--
 **yonggang-xiao/yonggang-xiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
